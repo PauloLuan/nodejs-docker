@@ -20,7 +20,7 @@ CMD npm test
 
 FROM dev as build
 COPY . .
-RUN npm build
+RUN npm run build
 
 FROM base as prod
 COPY --from=build /app/dist/ .
