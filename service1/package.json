@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-docker",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./dist/app.js",
+  "scripts": {
+    "start": "node ./dist/app.js",
+    "build": "tsc",
+    "dev": "npx nodemon",
+    "test": ""
+  },
+  "dependencies": {
+    "express": "~4.17.1"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.6",
+    "@types/node": "^14.0.11",
+    "nodemon": "^2.0.4",
+    "ts-node-dev": "^1.0.0-pre.44",
+    "typescript": "^3.9.5"
+  }
+}
