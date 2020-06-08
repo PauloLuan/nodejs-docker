@@ -10,7 +10,7 @@
     <a href="https://nodejs.org/en/"><img src="https://img.shields.io/badge/Node-14.x-green?style=for-the-badge"></a>
     <a href="https://www.npmjs.com/"><img src="https://img.shields.io/badge/NPM-6.x-red?style=for-the-badge"></a>
     <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-19.03.x-red?style=for-the-badge"></a>
-    <a href="https://docs.docker.com/compose/"><img src="https://img.shields.io/badge/Docker-Compose-1.25-4-red?style=for-the-badge"></a>
+    <a href="https://docs.docker.com/compose/"><img src="https://img.shields.io/badge/Docker-Compose-red?style=for-the-badge"></a>
 </p>
 
 ## 💡 Introduction
